@@ -1,4 +1,4 @@
-# Mybatis-Generator#
+# Mybatis-Generator
 
 #### 环境依赖
 
